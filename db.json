@@ -1,0 +1,130 @@
+{
+  "states": [
+    {
+      "timestamp": 1603320609050,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320614572,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320641586,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320645140,
+      "payload": {
+        "error": "IncompleteInput"
+      }
+    },
+    {
+      "timestamp": 1603320647204,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320648597,
+      "payload": {
+        "error": "InvalidInput"
+      }
+    },
+    {
+      "timestamp": 1603320653607,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320656119,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320658584,
+      "payload": {
+        "error": "InvalidInput"
+      }
+    },
+    {
+      "timestamp": 1603320664410,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320667323,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320670332,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320676238,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603320679647,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    },
+    {
+      "timestamp": 1603323797061,
+      "payload": {
+        "temperature": 19,
+        "humidity": 60,
+        "lightState": "ON",
+        "rgb": "0x121212"
+      }
+    }
+  ]
+}
